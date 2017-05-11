@@ -7,7 +7,7 @@ https://github.com/WestWebDesign/Final/blob/master/Final%20Web%20Design%20Ruberi
 
 
 Your final web page must be a portfolio that will include
-*About page
+Markup :*About page
 *What you learned in this class
 *Several items of your best work
 *Why GitHub is important for your development
