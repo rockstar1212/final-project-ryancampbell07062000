@@ -49,16 +49,18 @@ h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin
 .w3-aqua,.w3-hover-aqua:hover{color:#000!important;background-color:#00ffff!important}
 .w3-teal,.w3-hover-teal:hover{color:#fff!important;background-color:#009688!important}
 
+/* Body */
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
-.fa-anchor,.fa-coffee {font-size:200px}
 
+/* Tables */
 table, th, td {
     border: 1px solid black;
 }
 /*this centers my table*/
 .centerTable { margin: 0px auto; }
 
+/* Unordered Lists */
 ul {
     width:200px;
     margin:0 auto;
